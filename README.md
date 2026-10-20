@@ -6,3 +6,21 @@ Tujuan:
 2. Menentukan nilai ambang (threshold) untuk klasifikasi tutupan lahan.
 3. Menganalisis statistik indeks spektral berdasarkan wilayah kecamatan.
 4. Menyajikan hasil analisis melalui WebGIS interaktif.
+
+Data yang Digunakan:
+1. Citra Sentinel-2 Level-2A tanggal 1 Oktober 2026, berupa data reflektansi permukaan.
+2. Shapefile (SHP) batas administrasi dari Ina-Geoportal.
+
+Hasil Analisis
+Berdasarkan hasil klasifikasi komposit, persentase tutupan lahan Kabupaten Mojokerto adalah sebagai berikut:
+1. Vegetasi : 69%
+2. Bangunan : 25,20%
+3. Air : 0,30%
+4. Awan : 4,50%
+
+Anggota Kelompok
+a. Elia Putri Yusviana — 5016241026
+b. Bellicia Cantika Wardani — 5016241047
+
+Mata Kuliah: Pemrograman Spasial (A)
+Dosen Pengampu: Mohammad Rohmaneo Darminto, S.T., M.Sc.
